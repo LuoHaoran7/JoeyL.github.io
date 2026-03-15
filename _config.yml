@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: Joeyl'home
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 点
     link: /
-  - title: 科研 Research
+  - title: 这
     link: /research.html
-  - title: 论文 Publications
+  - title: 里
     link: /publications.html
